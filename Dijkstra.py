@@ -11,7 +11,7 @@ graph["b"]["a"] = 3
 graph["b"]["fin"] = 5
 graph["fin"] = {} 
 
-infinity = float("inf") # бесконечность
+infinity = float("inf")
 costs = {}
 costs["a"] = 6
 costs["b"] = 2
